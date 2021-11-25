@@ -1,0 +1,16 @@
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\dv_1.csproj.AssemblyReference.cache
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\dv_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\dv_1.AssemblyInfoInputs.cache
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\dv_1.AssemblyInfo.cs
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\dv_1.csproj.CoreCompileInputs.cache
+F:\School\Programovanie\Cvicenia\C#\dv_1\bin\Debug\net5.0\dv_1.exe
+F:\School\Programovanie\Cvicenia\C#\dv_1\bin\Debug\net5.0\dv_1.deps.json
+F:\School\Programovanie\Cvicenia\C#\dv_1\bin\Debug\net5.0\dv_1.runtimeconfig.json
+F:\School\Programovanie\Cvicenia\C#\dv_1\bin\Debug\net5.0\dv_1.runtimeconfig.dev.json
+F:\School\Programovanie\Cvicenia\C#\dv_1\bin\Debug\net5.0\dv_1.dll
+F:\School\Programovanie\Cvicenia\C#\dv_1\bin\Debug\net5.0\ref\dv_1.dll
+F:\School\Programovanie\Cvicenia\C#\dv_1\bin\Debug\net5.0\dv_1.pdb
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\dv_1.dll
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\ref\dv_1.dll
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\dv_1.pdb
+F:\School\Programovanie\Cvicenia\C#\dv_1\obj\Debug\net5.0\dv_1.genruntimeconfig.cache
